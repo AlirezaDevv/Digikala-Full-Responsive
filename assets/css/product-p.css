@@ -4997,3 +4997,21 @@ align-items: center;
                                 .txt-content{width: 100%; }
 
                             }
+
+
+                                    .page-transform{
+
+position: fixed;
+left: 20px;
+bottom: 20px;
+background-color: #ef394e;
+border-radius: 20px;
+
+        }
+
+        .page-transform a {
+padding: 10px 25px;
+color: #f9f9ff;
+display: flex;
+align-items: center;
+        }
